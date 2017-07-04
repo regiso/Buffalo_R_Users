@@ -61,7 +61,8 @@ The code uses tidyverse and tidytext to process the 18x2 data.frame through 8 st
 
 <div class="footer" style="margin-top:-10px;font-size:70%;">
 Regis O'Connor<br>
-analyticsrmo@gmail.com</div>
+analyticsrmo@gmail.com<br>
+https://github.com/regiso/Buffalo_R_Users </div>
 
 <div class="midcenter" style="margin-left:100px; margin-top:-100px;">
 <img src="Process_ppt.png"></img>
@@ -95,25 +96,32 @@ emotions3_JB <- emotions_Jimmy[,-1]
 emotions3_JB <- as.matrix(emotions3_JB)
 ```
 
+
 <div class="footer" style="margin-top:-50px;font-size:50%;">
 Regis O'Connor<br>
-analyticsrmo@gmail.com</div>
+analyticsrmo@gmail.com<br>
+https://github.com/regiso/Buffalo_R_Users </div>
 
 Heatmap produced in RPres
 ========================================================
+<div class="left" style="margin-left:100px">
 
 <img src="R_Users_July_17_Jimmy_Buffet-figure/unnamed-chunk-2-1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" width="700px" height="1000px" />
 
+</div>
+
 <div class="footer" style="margin-top:-10px;font-size:70%;">
 Regis O'Connor<br>
-analyticsrmo@gmail.com</div>
+analyticsrmo@gmail.com<br>
+https://github.com/regiso/Buffalo_R_Users </div>
 
 Heatmap processed in Power Point and imported to RPres
 ========================================================
 
 <div class="footer" style="margin-top:-50px;font-size:70%;">
 Regis O'Connor<br>
-analyticsrmo@gmail.com</div>
+analyticsrmo@gmail.com<br>
+https://github.com/regiso/Buffalo_R_Users </div>
 
 
 <div class="midcenter" style="margin-left:-500px; margin-top:-300px;">
