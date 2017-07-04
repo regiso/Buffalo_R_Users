@@ -45,7 +45,9 @@ analyticsrmo@gmail.com</div>
 Objective & Methodology
 ========================================================
 
-This is a reverse engineering of a similar analysis in Data Science + and R-bloggers.
+This is a reverse engineering of a similar analysis published May 17, 2017 in in Data Science + and shared on R-bloggers.
+
+https://datascienceplus.com/unsupervised-learning-and-text-mining-of-emotion-terms-using-r/
 
 Raw data is a csv file of 18 songs written by Jimmy Buffet.
 The code uses tidyverse and tidytext to process the 18x2 data.frame through 8 steps including:
@@ -57,11 +59,11 @@ The code uses tidyverse and tidytext to process the 18x2 data.frame through 8 st
 - summarizing      (tidyverse/dplyr)
 - spreading        (tidyverse/tidyr)
 
-<div class="footer" style="margin-top:-50px;font-size:70%;">
+<div class="footer" style="margin-top:-10px;font-size:70%;">
 Regis O'Connor<br>
 analyticsrmo@gmail.com</div>
 
-<div class="midcenter" style="margin-left:100px; margin-top:-200px;">
+<div class="midcenter" style="margin-left:100px; margin-top:-100px;">
 <img src="Process_ppt.png"></img>
 </div>
 
